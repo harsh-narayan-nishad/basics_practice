@@ -1,0 +1,1 @@
+#Write python program that take takes command line argument as input and print the number of arguments
